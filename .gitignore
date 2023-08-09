@@ -1,0 +1,11 @@
+.idea
+__pycache__
+.bsp
+target/
+spark-apps/*.jar
+spark-apps/*.py
+**/.ipynb_checkpoints/
+.python-version
+.venv
+conf/config.ini
+data/
