@@ -46,7 +46,7 @@ The order data includes order IDs, customer IDs, order lines (product ID, volume
 
    ```bash
    git clone 
-   cd specialized-industry-change-analysis
+   cd specialized-industry-analysis
 
   - Install the required dependencies:
   pip install pyspark
